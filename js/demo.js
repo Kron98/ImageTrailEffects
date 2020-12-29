@@ -158,7 +158,7 @@
             .to(img.DOM.el, 1, {
                 ease: Power1.easeOut,
                 opacity: 0
-            }, 0.4)
+            }, 0.8)
             // scale down the image
             .to(img.DOM.el, 1, {
                 ease: Quint.easeOut,
